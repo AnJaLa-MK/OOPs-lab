@@ -11,7 +11,9 @@ public class product{
 	
 	public static void main(String[] args){
 		System.out.println("Name : Anjala Michael");
-		System.out.println("Roll No : 7 ");
+		System.out.println("Reg No : SJC22MCA-2007 ");
+		System.out.println("Course : OOPS Lab ");
+		System.out.println("Course code : 20MCA132 ");
 		System.out.println("Date : 24/03/2023");	
 		
 		int smallest;
